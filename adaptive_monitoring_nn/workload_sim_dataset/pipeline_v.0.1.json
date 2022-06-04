@@ -14,7 +14,7 @@
     "drop_metric_url": "http://10.101.253.50:9393/drop_metric?metric=",
     "start_csv_exporter_url": "http://10.101.253.50:9393/start_csv_exporter",
     "fetching_offset": 10,
-    "query_delta_time": "2022-03-24 01:12:00",
+    "query_delta_time": "2022-03-24 00:00:00",
     "prometheus_url":"http://10.107.245.211:9090/" ,
     "queries":
     [
