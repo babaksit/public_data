@@ -7,7 +7,7 @@
     "torch_device": "cpu",
     "time_col": "Time",
     "frequency": "1s",
-    "std_threshold": 0.0135,
+    "std_threshold": 0.013,
     "augment": false,
     "keep_metric_url": "http://10.101.253.50:9393/keep_metric?metric=",
     "clear_keep_list_url": "http://10.101.253.50:9393/clear_keep_list",
